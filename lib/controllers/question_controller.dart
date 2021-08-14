@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:quiz_app/models/questions.dart';
+import 'package:quiz_app/screens/scrore/scrore_screen.dart';
 
 // I use get package for our state management
 class QuestionController extends GetxController
@@ -104,6 +105,9 @@ class QuestionController extends GetxController
       // Then start it again
       // One timer is finish go to the next qn
       _animationController.forward().whenComplete(nextQuestion);
+    } else {
+      // Get a package to provide us simple way to navigate another page
+      Get.to(const ScoreScreen());
     }
   }
 
