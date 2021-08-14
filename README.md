@@ -1,16 +1,31 @@
-# quiz_app
+# Flutter Quiz App
 
-A new Flutter project.
+**Follow me:**
+- [Facebook](https://www.facebook.com/zendy199x/)
+- [Linkedin](https://www.linkedin.com/in/zendy199x/)
+- [Github](https://www.github.com/zendy199x/)
 
-## Getting Started
+**Contact me:**
+- Mail: <a href="mailto:zendy199x@gmail.com">zendy199x@gmail.com</a>
+- Skype: nhokkute.nguyenduc
+- Zalo: [Zendy](https://zalo.me/nguyenduc94/)
+### Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="/screenshots/screenshot_1.png" width="350">
+  <br/>
+  <br/>
+  <img src="/screenshots/screenshot_2.png" width="350">
+  <br/>
+  <br/>
+  <img src="/screenshots/screenshot_3.png" width="350">
+  <br/>
+  <br/>
+  <img src="/screenshots/screenshot_4.png" width="350">
+  <br/>
+  <br/>
+  <img src="/screenshots/screenshot_5.png" width="350">
+  <br/>
+  <br/>
+  <img src="/screenshots/screenshot_6.png" width="350">
+</p>
